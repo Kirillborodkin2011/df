@@ -1,0 +1,339 @@
+header{
+    background-color: #DDF0BD;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 136px;
+    display: flex;
+    border-radius: 20px;
+}
+.menu {
+    display: flex;
+    height: 80px;
+    padding: 30px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex: 1 0 0;
+}
+
+.menu-elements {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-decoration: none;
+}
+.menu-elements:hover {
+    color: #bdd19b; 
+}
+
+body{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nas{
+    font-size: 40px;
+}
+
+.pro{
+    background-color: #B7D782;
+    width: 1446px;
+    height: 300px;
+    border-radius: 50px;
+   
+}
+
+.ph{
+    padding-top: 90px;
+    font-size: 30px;
+}
+
+.blu{
+  background-color: #DDF0BD;
+  width: 1446px;
+  height: 300px;
+  border-radius: 50px;
+  margin-left: 28px;
+  
+ 
+  
+}
+
+.bylochka{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    
+}
+
+.c{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px; 
+}
+
+.mas{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    
+}
+
+.vupechka{
+   margin-left: 670px;
+   margin-top: -210px;
+   background-color: #ECFFCC;
+   width: 170px;
+   height: 230px;
+   border-radius: 20px;
+}
+
+.bylochka{
+  margin-left: 19px;
+  margin-top: 20px;
+  width: 135px;
+  height: 135px;  
+}
+
+.bel {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DDF0BD; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 17px; /* Adjust the margin as needed */
+    margin-left: 25px; /* Adjust horizontal positioning */
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.bel:hover {
+    background-color: #bdd19b; /* Adjust hover color as needed */
+}
+
+.nashu{
+    margin-left: 170px;
+    background-color: #ECFFCC;
+    width: 170px;
+    height: 230px;
+    transform: translateY(20px);
+    border-radius: 20px;
+ }
+
+ .c{
+    margin-left: 19px;
+    margin-top: 20px;
+    width: 135px;
+    height: 135px;  
+  }
+
+  .knopka {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DDF0BD; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 17px; /* Adjust the margin as needed */
+    margin-left: 40px; /* Adjust horizontal positioning */
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.knopka:hover {
+    background-color: #bdd19b; /* Adjust hover color as needed */
+}
+
+.maso{
+    margin-left: 1100px;
+    background-color: #ECFFCC;
+    width: 170px;
+    height: 230px;
+    transform: translateY(-230px);
+    border-radius: 20px;
+ }
+
+ .mas{
+    margin-left: 19px;
+    margin-top: 20px;
+    width: 135px;
+    height: 135px;  
+  }
+
+  .m {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DDF0BD; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 17px; /* Adjust the margin as needed */
+    margin-left: 40px; /* Adjust horizontal positioning */
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.m:hover {
+    background-color: #bdd19b; /* Adjust hover color as needed */
+}
+
+
+
+.two{
+    background-color: #DDF0BD;
+    width: 1446px;
+    height: 300px;
+    border-radius: 50px;
+    margin-left: 28px; 
+    margin-top: 100px; 
+  }
+
+
+  .salat{
+    margin-left: 170px;
+    background-color: #ECFFCC;
+    width: 170px;
+    height: 230px;
+    transform: translateY(30px);
+    border-radius: 20px;
+ }
+
+ .salatimg {
+    margin-left: 19px;
+    margin-top: 20px;
+    width: 135px;
+    height: 135px;  
+    border-radius: 50%;
+  }
+
+  .salatknopka {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DDF0BD; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 17px; /* Adjust the margin as needed */
+    margin-left: 40px; /* Adjust horizontal positioning */
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.salat.knopka:hover {
+    background-color: #bdd19b; /* Adjust hover color as needed */
+}
+
+
+.pizza{
+    margin-left: 670px;
+    margin-top: -210px;
+    background-color: #ECFFCC;
+    width: 170px;
+    height: 230px;
+    border-radius: 20px;
+ }
+ 
+ .pizzaimg{
+   margin-left: 19px;
+   margin-top: 20px;
+   width: 135px;
+   height: 135px;  
+   border-radius: 50%;
+ }
+ 
+ .pizzaknopka {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #DDF0BD; /* Adjust color as needed */
+     color: #fff; /* Text color */
+     font-size: 18px;
+     font-weight: bold;
+     text-decoration: none;
+     border-radius: 5px;
+     margin-top: 17px; /* Adjust the margin as needed */
+     margin-left: 25px; /* Adjust horizontal positioning */
+     transition: background-color 0.3s ease; /* Smooth color transition on hover */
+ }
+ 
+ .pizzaknopka:hover {
+     background-color: #bdd19b; /* Adjust hover color as needed */
+ }
+
+ .ruba{
+    margin-left: 1100px;
+    background-color: #ECFFCC;
+    width: 170px;
+    height: 230px;
+    transform: translateY(-230px);
+    border-radius: 20px;
+ }
+
+ .fishimg{
+    margin-left: 19px;
+    margin-top: 20px;
+    width: 135px;
+    height: 135px;  
+    border-radius: 50%;
+  }
+
+  .fishknopka {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #DDF0BD; /* Adjust color as needed */
+    color: #fff; /* Text color */
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 17px; /* Adjust the margin as needed */
+    margin-left: 40px; /* Adjust horizontal positioning */
+    transition: background-color 0.3s ease; /* Smooth color transition on hover */
+}
+
+.fishknopka:hover {
+    background-color: #bdd19b; /* Adjust hover color as needed */
+}
+
+
+footer {
+    background-color: #DDF0BD;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    border-radius: 20px;
+
+}
+
+.lofofooter{
+  margin-left: 1300px;
+  margin-top: -100px; 
+}
+
+.puplic{
+    text-align: center;
+    font-size: 30px;
+}
+
+.emailone{
+    font-size: 25px;
+    
+}
+
+.emailtwo{
+    font-size: 25px;
+}
+
+
+.text{
+   margin-left: 40px; 
+   margin-top: 70px;
+   transform: translateY(50px);
+}
